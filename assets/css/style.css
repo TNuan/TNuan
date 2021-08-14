@@ -528,3 +528,10 @@ html {
     Tablet: >= 740px & < 1024px
     Mobile: < 740px 
 */
+
+/* :)) nope */
+
+.my-text {
+    height: 50px;
+    width: 100%;
+}
