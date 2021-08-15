@@ -92,7 +92,16 @@
         width: 60%;
     }
 
+    .contact-form .form-control { 
+        font-size: 16px;
+        padding: 5px;
+    }
+
     .contact-form {
         margin-top: 32px;
+    }
+
+    .contact-submit-btn {
+        font-size: 16px;
     }
 }
