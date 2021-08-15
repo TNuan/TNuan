@@ -339,6 +339,7 @@ html {
     padding: 11px 16px ;
     display: inline-block;
     border-style: none;
+    -webkit-appearance: none;
 }
 
 .btn:hover {
